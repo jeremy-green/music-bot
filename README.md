@@ -1,5 +1,7 @@
 # Music Bot
 
+Play flash cards with music notes in Slack
+
 ### Prerequisites
 
 You will need to have following software and versions:
