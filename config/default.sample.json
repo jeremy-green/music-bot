@@ -1,0 +1,6 @@
+{
+  "token": "<SLACK_TOKEN>",
+  "debug": false,
+  "restartTimeout": 60000,
+  "gameTimeout": 600000
+}
